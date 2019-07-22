@@ -1,0 +1,7 @@
+#ignore this file#
+/project01/*.sdf
+/project01/*.sln
+/project01/*.suo
+/project01/project01/*.vcxproj
+/project01/project01/*.filters
+/clonefile/
